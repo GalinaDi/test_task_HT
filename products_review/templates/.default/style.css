@@ -1,0 +1,34 @@
+.items_container {
+	width: 100%;
+	max-width: 970px;
+	padding: 0 20px;
+	margin: 16px auto 24px;
+}
+.items_container .item {
+	border: 2px solid #eff0f1;
+    margin-bottom: 18px;
+    border-radius: 15px;
+    padding: 8px 16px 12px 12px;
+}
+.items_container .name {
+	font-size: 18px;
+}
+.items_container .name span {
+	font-style: italic;
+    color: #b0b0b0;
+}
+.items_container .detail_text {
+	margin: 12px 0 22px;
+}
+.review_block {
+	border-top: 2px solid #0083d1;
+    padding: 16px 16px 0;
+}
+.review_block .review_item {
+	margin-bottom: 20px;
+    font-size: 14px;
+}
+.review_block .user_name {
+	font-style: italic;
+}
+.review_block .review {}
